@@ -1,8 +1,8 @@
 # kicanka-pcb
 kicanka PCB - battery and RGB led PCB in special shape
 
-This was the official badge of my weding. I created it and assembled 100 pcs for all guests. 
-The LED is multy color and changes color when power is aplied. So the circuit is relay simple, just battery and LED. 
+This was the official badge of my wedding. I created it and assembled 100 pcs for all guests. 
+The LED is multicolor and changes color when power is applied. The circuit is really simple, just battery and LED. 
 
 ## components:
 * battery holder for CR1220 battery
